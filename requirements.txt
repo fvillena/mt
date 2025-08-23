@@ -1,5 +1,5 @@
 jupyter
-datasets
+datasets==3.6.0
 pandas
 spacy
 tokenizers
